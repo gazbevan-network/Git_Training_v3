@@ -4,4 +4,8 @@ The United States has awarded a patent for the “Glitter Belt” invention to h
 
 Add compare
 This is comparisson lecture
+
 This is the stash lecture, change in Main file
+
+This is the stash lecture, change in file 1
+
