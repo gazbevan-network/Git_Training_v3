@@ -9,3 +9,4 @@ This is the stash lecture, change in Main file
 
 This is the stash lecture, change in file 1
 
+Untracked change in File 1
